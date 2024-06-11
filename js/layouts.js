@@ -5,9 +5,12 @@ function $(tag) {
 }
 const menuBtn = $(".menu");
 const nav = $(".nav");
-menuBtn.onclick = () => {
+// menuBtn.onclick = () => {
+//     nav.classList.toggle("navbar");
+// };
+document.querySelector(".menu").addEventListener("click",function(){
     nav.classList.toggle("navbar");
-};
+})
 
 // Add Animation To Hero Sections
 document.addEventListener("DOMContentLoaded", () => {
