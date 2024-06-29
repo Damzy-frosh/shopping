@@ -1,7 +1,7 @@
 <center>
 
 <img align="center" src="images/yagami-light" width="250" height="250"><br>
-<h2 align="center">Ghs Julian</h2>
+<h2 align="center">Sultan Olanrewaju</h2>
 
 
 
@@ -12,7 +12,7 @@
 
 ---
 
-**This is a static landing page created by Ghs Julian**
+**This is a awesome created by sultan(yagami)**
 
 ---
 
